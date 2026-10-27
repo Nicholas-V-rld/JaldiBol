@@ -1,5 +1,7 @@
 # Project JaldiBol: Low-Latency AI Voice Agent for Atlys Guest Delight
 
+> Built by Daniel Oyinloluwa and Nicholas V. as a team.
+
 > **Production-grade, full-duplex conversational voice agent engineered for Atlys Guest Delight operations.**  
 > Powered by LiveKit Cloud, Silero VAD, Deepgram Nova-3, Google Gemini 3.5 Flash Lite, and Cartesia Sonic-3.6.
 
